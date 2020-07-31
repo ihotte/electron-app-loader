@@ -1,0 +1,17 @@
+
+*.aps
+*.VC.db
+*.VC.VC.opendb
+.vs
+
+
+/releases/
+
+/loader/x64/
+/loader/Debug/
+/loader/Release/
+
+/loader/*/x64/
+/loader/*/Debug/
+/loader/*/Release/
+
