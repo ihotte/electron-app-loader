@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "balenaEtcher", "balenaEtcher\balenaEtcher.vcxproj", "{F3F2D3C6-4582-4352-9BB3-175969513DF5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Etcher", "balenaEtcher\balenaEtcher.vcxproj", "{F3F2D3C6-4582-4352-9BB3-175969513DF5}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GitHub", "GitHub\GitHub.vcxproj", "{9321F92C-3118-42E3-BFE8-57074A6E15C4}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Motrix", "Motrix\Motrix.vcxproj", "{2C0E6741-1305-40DF-9D9C-E9D121510DF4}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Postman", "Postman\Postman.vcxproj", "{2DA92940-4E09-40FC-9B2D-40F99D321272}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Typora", "Typora\Typora.vcxproj", "{EDA4814D-5043-4DE8-BBA4-49AA13628F02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2DA92940-4E09-40FC-9B2D-40F99D321272}.Release|x64.Build.0 = Release|x64
 		{2DA92940-4E09-40FC-9B2D-40F99D321272}.Release|x86.ActiveCfg = Release|Win32
 		{2DA92940-4E09-40FC-9B2D-40F99D321272}.Release|x86.Build.0 = Release|Win32
+		{EDA4814D-5043-4DE8-BBA4-49AA13628F02}.Release|x64.ActiveCfg = Release|x64
+		{EDA4814D-5043-4DE8-BBA4-49AA13628F02}.Release|x64.Build.0 = Release|x64
+		{EDA4814D-5043-4DE8-BBA4-49AA13628F02}.Release|x86.ActiveCfg = Release|Win32
+		{EDA4814D-5043-4DE8-BBA4-49AA13628F02}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
