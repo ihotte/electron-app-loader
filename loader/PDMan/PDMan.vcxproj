@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{2C0E6741-1305-40DF-9D9C-E9D121510DF4}</ProjectGuid>
+    <ProjectGuid>{ED3BCA60-CB21-4207-BB86-AF6AA6DDE579}</ProjectGuid>
     <RootNamespace>PDMan</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectName>PDMan</ProjectName>

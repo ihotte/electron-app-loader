@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Postman", "Postman\Postman.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Typora", "Typora\Typora.vcxproj", "{EDA4814D-5043-4DE8-BBA4-49AA13628F02}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PDMan", "PDMan\PDMan.vcxproj", "{ED3BCA60-CB21-4207-BB86-AF6AA6DDE579}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Release|x64 = Release|x64
@@ -39,6 +41,10 @@ Global
 		{EDA4814D-5043-4DE8-BBA4-49AA13628F02}.Release|x64.Build.0 = Release|x64
 		{EDA4814D-5043-4DE8-BBA4-49AA13628F02}.Release|x86.ActiveCfg = Release|Win32
 		{EDA4814D-5043-4DE8-BBA4-49AA13628F02}.Release|x86.Build.0 = Release|Win32
+		{ED3BCA60-CB21-4207-BB86-AF6AA6DDE579}.Release|x64.ActiveCfg = Release|x64
+		{ED3BCA60-CB21-4207-BB86-AF6AA6DDE579}.Release|x64.Build.0 = Release|x64
+		{ED3BCA60-CB21-4207-BB86-AF6AA6DDE579}.Release|x86.ActiveCfg = Release|Win32
+		{ED3BCA60-CB21-4207-BB86-AF6AA6DDE579}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
